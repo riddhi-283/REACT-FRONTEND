@@ -1,0 +1,7 @@
+1) npm create vite@latest
+2) cd 02counter
+3) npm isntall
+
+to run this project-< check package.json->dev is there so npm run dev
+
+open app.jsx remove everything from return only keep <>   </>
